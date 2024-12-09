@@ -52,6 +52,7 @@ Future Enhancements
 Integration of advanced sensors for improved accuracy.
 Addition of wireless connectivity for real-time monitoring.
 Compatibility with smart devices for extended functionalities.
+for the virtual view click on this link https://wokwi.com/projects/406034869275608065
 License
 This project is open-source and can be freely used and modified for non-commercial purposes. For commercial use, please contact the author.
 
